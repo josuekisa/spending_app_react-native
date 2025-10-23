@@ -49,7 +49,9 @@ export default function HomePage() {
         </View>
         {/** container activité recente */}
         <View className="w-full bg-gray-950">
-          <Text className="font-bold text-white">⚡️ Activité récente</Text>
+          <Text className="font-bold text-white">
+            ⚡️ Activité récenteeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+          </Text>
         </View>
       </View>
 
